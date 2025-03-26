@@ -127,6 +127,7 @@ if __name__ == "__main__":
     
     # Query the documents
     results = agent.query_documents("What is the main topic of the document?")
+
     for result in results:
         print(f"Score: {result['score']:.4f}")
         print(f"Content: {result['document'][:200]}...")
