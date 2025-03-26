@@ -1,0 +1,11 @@
+Category,Subcategory,Rules,Risk Score
+Retail,International Auto Loan,"Includes loan eligibility, credit score segmentation, delinquency classification, and risk weightings.",7
+Retail,US Auto Loan,"Includes loan eligibility, credit score segmentation, delinquency classification, and risk weightings.",7
+Retail,International Credit Card,"Defines risk profiling based on credit limits, default history, and charge-off policies.",8
+Retail,International Home Equity,"Covers home equity loans and first lien mortgage risk factors, including property valuation and LTV ratios.",6
+Retail,International First Lien Mortgage,"Covers home equity loans and first lien mortgage risk factors, including property valuation and LTV ratios.",6
+Retail,International Other Consumer,General consumer lending risk assessment based on borrower history and repayment capacity.,6
+Retail,US Other Consumer,General consumer lending risk assessment based on borrower history and repayment capacity.,6
+Retail,International Small Business,"Outlines credit assessment rules, debt-to-income analysis, and business viability checks.",7
+Retail,US Small Business,"Outlines credit assessment rules, debt-to-income analysis, and business viability checks.",7
+Retail,Student Loan,"Regulations regarding student loan risk factors, including deferment options and default probabilities.",5
